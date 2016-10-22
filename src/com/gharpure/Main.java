@@ -3,6 +3,10 @@ package com.gharpure;
 
 /**
  * Created by gharpure on 10/21/16.
+ * This is the main program where we create an array of shapes
+ * Then add a rectangle, a square and a circle
+ * We also print the number of Rectangles that were created via the static method getNumRectangles
+ * Then we loop over all the shapes and call the methods defined in the interface
  */
 public class Main {
     public static void main(String[] args) {
